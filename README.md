@@ -11,7 +11,7 @@ A simple Python project that downloads YouTube videos using the [pytube](https:/
 ## How to Use
 1. Make sure you have Python installed.
 2. Install pytube:
-- pip install pytube
+- pip install pytubefix
 3. Run the script:
 - python YT-downloader.py
 4. Paste the YouTube video URL when prompted.
